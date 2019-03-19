@@ -1,0 +1,25 @@
+{
+  "name": "splittermond-char-gen",
+  "version": "0.0.1",
+  "description": "A splittermond character generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-gen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dominik-Reinert/Splittermond-char-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dominik-Reinert/Splittermond-char-gen/issues"
+  },
+  "homepage": "https://github.com/Dominik-Reinert/Splittermond-char-gen#readme",
+  "dependencies": {
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
