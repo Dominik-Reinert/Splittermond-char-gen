@@ -7,9 +7,12 @@
       "jsx": "react"
     },
     "files": [
-      "src/app.tsx"
+      "src/app.tsx",
+      "src/app/main.tsx",
+      "src/libs/test_component.tsx"
     ],
     "include": [
+      "src/**/*.tsx",
       "src/**/*.ts"
     ],
     "exclude": [

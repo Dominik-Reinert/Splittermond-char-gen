@@ -18,12 +18,14 @@
   },
   "homepage": "https://github.com/Dominik-Reinert/Splittermond-char-gen#readme",
   "devDependencies": {
+    "@types/react": "^16.8.5",
     "lite-server": "^2.4.0",
     "react": "^16.8.5",
-    "react-dom": "^16.8.5",
-    "@types/react": "^16.8.5"
+    "react-dom": "^16.8.5"
   },
   "dependencies": {
+    "@types/requirejs": "^2.1.31",
+    "commonjs": "0.0.1",
     "react": "^16.8.5",
     "react-dom": "^16.8.5"
   }
