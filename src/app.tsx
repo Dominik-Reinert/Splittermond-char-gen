@@ -13,4 +13,4 @@ class Test extends React.Component<TestProps, any>{
     }
 }
 
-ReactDOM.render(<Test />, root);
+ReactDOM.render(<Test hello={'world'} />, root);
